@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+    <string name="minimize_the_app">Minimize the App</string>
+    <string name="show_transparent_activity">Show Transparent Activity</string>
+    <string name="show_another_activity">Show Another Activity</string>
+</resources>
